@@ -128,6 +128,14 @@ interface CountryData {
 ---
 
 ## 📄 الترخيص
-
 هذا العمل متاح تحت ترخيص [MIT](LICENSE)، وهو متاح للجميع للاستخدام أو التعديل في أي مشروع شخصي أو تجاري. إذا وجدتم أي خطأ أو لديكم مقترح للتحسين، يسعدني استقبال مساهماتكم.
+
+This commit was created on GitHub.com and signed with GitHub's verified signature.
+GPG Key ID: B5690EEEBB952194
+Verified on Jun 12, 2026, 11:23
+
+
+
+
+
 
